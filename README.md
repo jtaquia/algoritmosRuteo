@@ -1,2 +1,2 @@
-# algoritmosRuteo
-comparacion algoritmos de vecino proximo y algoritmos geneticos
+# Routing algorithms
+comparison nearest neighbor and genetic algorithm
